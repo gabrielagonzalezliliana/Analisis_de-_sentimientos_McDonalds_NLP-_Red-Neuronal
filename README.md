@@ -73,12 +73,14 @@ Haz clic para ver y ejecutar el notebook:
 - Accuracy: **85.2%**
 - Clasificación binaria: `rating > 3` → positivo
 
-```python
-Accuracy: 0.852
+
 
 ### 🤖 Red Neuronal (Keras)
 
+
 Se implementó una red neuronal simple utilizando Keras para clasificar las reseñas en sentimientos positivos o negativos, con entrada basada en TF-IDF.
+```precision alcanzada
+Accuracy: 0.8763
 
 #### 📐 Arquitectura
 
@@ -89,8 +91,7 @@ model = Sequential([
     Dense(1, activation='sigmoid')
 ])
 
-```precision alcanzada
-Accuracy: 0.8763
+
 
 
 
