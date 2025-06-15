@@ -20,7 +20,7 @@ En un contexto donde la percepción del cliente impacta en la reputación de mar
 ## 🔗 Acceso al proyecto en Google Colab
 
 Haz clic para ver y ejecutar el notebook:  
-👉 [Abrir en Colab](https://drive.google.com/file/d/11zTL0LAmkXPp1k2VDzw_M9oaXbfXEEUc/view?usp=sharing)
+👉 [Abrir en Colab](https://colab.research.google.com/drive/1mENMX4ck2LnXJXUIdJz7MEoFZSy7rOKW?usp=sharing)
 
 
 ---
